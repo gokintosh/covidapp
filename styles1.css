@@ -92,6 +92,9 @@ h1 {
 	padding: 40px;
 	text-align: center;
 }
+p{
+    padding: 30px;
+}
 
 #about p {
 	font-size: 1.2rem;
